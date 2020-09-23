@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MemeGenerator-using-React/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MemeGenerator-using-React/static/js/main.45001d9b.chunk.js",
+    "main.js.map": "/MemeGenerator-using-React/static/js/main.45001d9b.chunk.js.map",
+    "runtime-main.js": "/MemeGenerator-using-React/static/js/runtime-main.0fc0314b.js",
+    "runtime-main.js.map": "/MemeGenerator-using-React/static/js/runtime-main.0fc0314b.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/MemeGenerator-using-React/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.1f4cd4f3.chunk.js": "/MemeGenerator-using-React/static/js/2.1f4cd4f3.chunk.js",
+    "static/js/2.1f4cd4f3.chunk.js.map": "/MemeGenerator-using-React/static/js/2.1f4cd4f3.chunk.js.map",
+    "index.html": "/MemeGenerator-using-React/index.html",
+    "precache-manifest.02b73a5767fc8855c1d982842ef7772b.js": "/MemeGenerator-using-React/precache-manifest.02b73a5767fc8855c1d982842ef7772b.js",
+    "service-worker.js": "/MemeGenerator-using-React/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/MemeGenerator-using-React/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/MemeGenerator-using-React/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1f4cd4f3.chunk.js.LICENSE.txt": "/MemeGenerator-using-React/static/js/2.1f4cd4f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc0314b.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.1f4cd4f3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.45001d9b.chunk.js"
+  ]
+}
